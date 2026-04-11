@@ -1,6 +1,6 @@
 # tech-market-intelligence-scraper
 
-Status: Work In Progress 
+Status: Work In Progress.
 
 Description
 This project is a web scraper designed to extract each brand hardware products from Flipkart. Currently, the scraper is in its alpha phase. It successfully navigates the target site and extracts raw data into a CSV format for initial analysis.
