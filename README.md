@@ -15,7 +15,7 @@ Libraries: [BeautifulSoup4, Selenium, Playwright, Pandas]
 Storage: CSV (Local)
 
 Usage: To run the scraper and generate the rough CSV:
-
+ 
 Known Issues / Rough Edges
 Since this is a WIP, please note the following.
 
